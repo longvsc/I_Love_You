@@ -1,6 +1,6 @@
 # I_Love_You
 
-[EHC{This_is_a_fake_Flag}]
+EHC{This_is_a_fake_Flag}
 
 [Click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to get the flag
 
